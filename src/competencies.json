@@ -1,0 +1,501 @@
+{
+  "AWS DevOps Competency": {
+    "consulting": {
+      "competencyUrl": "https://apn-checklists.s3.amazonaws.com/competency/devops/consulting/Cm5yq5ehT.html",
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/devops/consulting/Cm5yq5ehT/AWS%20DevOps%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/devops/technology/CenAm4qx8/AWS%20DevOps%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/devops/technology/CenAm4qx8/AWS%20DevOps%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Cloud Operations Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/cloud-operations/consulting/Cb6z66gKQ/AWS%20Cloud%20Operations%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/cloud-operations/technology/CIBVL4voO/AWS%20Cloud%20Operations%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/cloud-operations/technology/CIBVL4voO/AWS%20Cloud%20Operations%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Container Competency": {
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/container/technology/CUrwMcJGm/AWS%20Container%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/container/technology/CUrwMcJGm/AWS%20Container%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Conversational AI Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/conversational-ai/consulting/Cvkq1FdL1/AWS%20Conversational%20AI%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/conversational-ai/technology/CfLLK8yu0/Conversational%20AI%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/conversational-ai/technology/CfLLK8yu0/Conversational%20AI%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Data and Analytics Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/data-and-analytics/consulting/CwDeMHw3L/AWS%20Data%20and%20Analytics%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/data-and-analytics/technology/C603rlm2F/AWS%20Data%20And%20Analytics%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/data-and-analytics/technology/C603rlm2F/AWS%20Data%20And%20Analytics%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Digital Customer Experience Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/digital-customer-experience/consulting/CluZtiElh/AWS%20Digital%20Customer%20Experience%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/digital-customer-experience/technology/CJ7Zx75Wx/AWS%20Digital%20Customer%20Experience%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/digital-customer-experience/technology/CJ7Zx75Wx/AWS%20Digital%20Customer%20Experience%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Digital Workplace Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/digital-workplace/consulting/C2dAFThUn/AWS%20Digital%20Workplace%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/digital-workplace/technology/CyDFJfFoj/AWS%20Digital%20Workplace%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/digital-workplace/technology/CyDFJfFoj/AWS%20Digital%20Workplace%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS High Performance Computing Competency": {
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/high-performance-computing/technology/CC--znu7a/AWS%20High%20Performance%20Computing%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/high-performance-computing/technology/CC--znu7a/AWS%20High%20Performance%20Computing%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    },
+    "software-foundational-technology": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/high-performance-computing/technology/CC--znu7a/AWS%20High%20Performance%20Computing%20Competency%20Self-Assessment%20-%20Foundational%20Technology.xlsx"
+    }
+  },
+  "AWS IoT Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/iot/consulting/CyWGioP41/AWS%20IoT%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/iot/technology/CUNshn9aZ/AWS%20IoT%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/iot/technology/CUNshn9aZ/AWS%20IoT%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Level 1 Managed Security Service Provider Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/level-1-managed-security-service-provider/consulting/CuHDOh7ex/AWS%20Level%201%20Managed%20Security%20Service%20Provider%20Competency%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS Machine Learning Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/machine-learning/consulting/CDrF84yod/AWS%20Machine%20Learning%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/machine-learning/technology/CDzy_YSts/AWS%20Machine%20Learning%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/machine-learning/technology/CDzy_YSts/AWS%20Machine%20Learning%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Mainframe Modernization Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/mainframe-modernization/consulting/CeUOFIIFC/AWS%20Mainframe%20Modernization%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/mainframe-modernization/technology/CQ4XBOHFT/AWS%20Mainframe%20Modernization%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/mainframe-modernization/technology/CQ4XBOHFT/AWS%20Mainframe%20Modernization%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Migration Competency": {
+    "software": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/migration/consulting/CNIBv7Tt8/AWS%20Migration%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/migration/technology/CPDwvjpPF/AWS%20Migration%20and%20Modernization%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/migration/technology/CPDwvjpPF/AWS%20Migration%20and%20Modernization%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Networking Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/networking/consulting/CsbVu5IS0/AWS%20Networking%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/networking/technology/CEDjGvDRW/AWS%20Networking%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/networking/technology/CEDjGvDRW/AWS%20Networking%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Security Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/security/consulting/CXLOf6Hk3/AWS%20Security%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/security/technology/C_Ss7_A10/AWS%20Security%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/security/technology/C_Ss7_A10/AWS%20Security%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Storage Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/storage/consulting/CL0TGLv2D/AWS%20Storage%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/storage/technology/CU5laXMhF/AWS%20Storage%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/storage/technology/CU5laXMhF/AWS%20Storage%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Microsoft Workloads Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/microsoft-workloads/consulting/CR_Ysz-mn/AWS%20Microsoft%20Workloads%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/microsoft-workloads/technology/CIr2c14XI/AWS%20Microsoft%20Workloads%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/microsoft-workloads/technology/CIr2c14XI/AWS%20Microsoft%20Workloads%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Oracle Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/oracle/consulting/CUn__jMKN/AWS%20Oracle%20Competency%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS SaaS Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/saas/consulting/CYNKvYL8K/AWS%20SaaS%20Competency%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS SAP Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/sap/consulting/CET9YPW2W/AWS%20SAP%20Competency%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS Education Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/education/consulting/Ccf_WVoOo/AWS%20Education%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/education/technology/CXo959TDB/AWS%20Education%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/education/technology/CXo959TDB/AWS%20Education%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Energy Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/energy/consulting/CTpftZxbZ/AWS%20Energy%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/energy/technology/CTfpLeXqi/AWS%20Energy%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/energy/technology/CTfpLeXqi/AWS%20Energy%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Financial Services Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/financial-services/consulting/CWNIstW4j/AWS%20Financial%20Services%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/financial-services/technology/CL9ScWvfj/AWS%20Financial%20Services%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/financial-services/technology/CL9ScWvfj/AWS%20Financial%20Services%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Government Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/government/consulting/CMl0egivR/AWS%20Government%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/government/technology/CiV-cxmx2/AWS%20Government%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/government/technology/CiV-cxmx2/AWS%20Government%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Healthcare Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/healthcare/consulting/CsccFEePA/AWS%20Healthcare%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/healthcare/technology/ChW-HhYmZ/AWS%20Healthcare%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/healthcare/technology/ChW-HhYmZ/AWS%20Healthcare%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Manufacturing and Industrial Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/manufacturing-and-industrial/consulting/CVCGwZCPT/AWS%20Manufacturing%20and%20Industrial%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/manufacturing-and-industrial/technology/CKp8Omu8v/AWS%20Manufacturing%20and%20Industrial%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/manufacturing-and-industrial/technology/CKp8Omu8v/AWS%20Manufacturing%20and%20Industrial%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Life Sciences Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/life-sciences/consulting/CmovQSyz4/AWS%20Life%20Sciences%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/life-sciences/technology/CrFcRKB1V/AWS%20Life%20Sciences%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/life-sciences/technology/CrFcRKB1V/AWS%20Life%20Sciences%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Media and Entertainment Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/media-and-entertainment/consulting/CNY2VDYt3/AWS%20Media%20and%20Entertainment%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/media-and-entertainment/technology/CubG2FRWg/AWS%20Media%20and%20Entertainment%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/media-and-entertainment/technology/CubG2FRWg/AWS%20Media%20and%20Entertainment%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Nonprofit Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/nonprofit/consulting/CtTq7MUa1/AWS%20Nonprofit%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/nonprofit/technology/C5WV1hDcV/AWS%20Nonprofit%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/nonprofit/technology/C5WV1hDcV/AWS%20Nonprofit%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Public Safety and Disaster Response Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/public-safety-and-disaster-response/consulting/C2docFEMe/AWS%20Public%20Safety%20and%20Disaster%20Response%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/public-safety-and-disaster-response/technology/C3Xzrj3mU/AWS%20Public%20Safety%20and%20Disaster%20Response%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/public-safety-and-disaster-response/technology/C3Xzrj3mU/AWS%20Public%20Safety%20and%20Disaster%20Response%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Retail Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/retail/consulting/CsAUPyd4M/AWS%20Retail%20Competency%20Self-Assessment.xlsx"
+    },
+
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/retail/technology/CtZ2GsGJk/AWS%20Retail%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/retail/technology/CtZ2GsGJk/AWS%20Retail%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Smart City Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/smart-city/consulting/CAGUgbjvO/AWS%20Smart%20City%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/smart-city/technology/CY2IZ5P6I/AWS%20Smart%20City%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/smart-city/technology/CY2IZ5P6I/AWS%20Smart%20City%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Supply Chain Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/supply-chain/consulting/CHtgT_uIl/Supply%20Chain%20Competency%20[Preview]%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/supply-chain/technology/C_VObxWX2/Supply%20Chain%20Competency%20[Preview]%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/supply-chain/technology/C_VObxWX2/Supply%20Chain%20Competency%20[Preview]%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "AWS Travel and Hospitality Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/travel-and-hospitality/consulting/Cva-Q6XkU/AWS%20Travel%20and%20Hospitality%20Competency%20Self-Assessment.xlsx"
+    },
+    "software-saas": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/travel-and-hospitality/technology/CdsfYcVQY/AWS%20Travel%20and%20Hospitality%20Competency%20Self-Assessment%20-%20SaaS.xlsx"
+    },
+    "software-customer-deployed": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/travel-and-hospitality/technology/CdsfYcVQY/AWS%20Travel%20and%20Hospitality%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
+    }
+  },
+  "Amazon RDS Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/amazon-rds/CwXqjf5lm/Amazon%20RDS%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS Database Migration Service Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-database-migration-service/C7aCIlUJs/AWS%20Database%20Migration%20Service%20Self-Assessment.xlsx"
+    }
+  },
+  "Amazon DynamoDB Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/amazon-dynamodb/C4r6lcZPM/Amazon%20DynamoDB%20Self-Assessment.xlsx"
+    }
+  },
+  "Amazon EC2 for Microsoft Windows Server Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/amazon-ec2-for-microsoft-windows-server/CgF-bN5ZQ/Amazon%20EC2%20for%20Microsoft%20Windows%20Server%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS Server Migration Service Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-server-migration-service/CsMljVJG2/AWS%20Server%20Migration%20Service%20Self-Assessment.xlsx"
+    }
+  },
+  "Amazon EKS Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/amazon-eks/CPJBZ_3E6/Amazon%20EKS%20Self-Assessment.xlsx"
+    }
+  },
+  "Amazon Graviton Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-graviton/CX6uvz1aw/AWS%20Graviton%20Self-Assessment.xlsx"
+    }
+  },
+  "Amazon CloudFront Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/amazon-cloudfront/CzXtsTito/Amazon%20CloudFront%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS Direct Connect Direct Connect Partner": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-direct-connect/CS6TcH0aK/AWS%20Direct%20Connect%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS Lambda Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-lambda/CHKIoBy4V/AWS%20Lambda%20Self-Assessment.xlsx"
+    }
+  },
+  "Amazon API Gateway Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/amazon-api-gateway/ConfRrxCL/Amazon%20API%20Gateway%20Self-Assessment.xlsx"
+    }
+  },
+  "Amazon EMR Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/amazon-emr/CbrJ5P6rZ/Amazon%20EMR%20Self-Assessment.xlsx"
+    }
+  },
+  "Amazon Kinesis Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/amazon-kinesis/C7nF8zJHn/Amazon%20Kinesis%20Self-Assessment.xlsx"
+    }
+  },
+  "Amazon Redshift Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/amazon-redshift/CeacSJNpB/Amazon%20Redshift%20Self-Assessment.xlsx"
+    }
+  },
+  "Amazon QuickSight Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/amazon-quicksight/CRS6KofdM/Amazon%20QuickSight%20Self-Assessment.xlsx"
+    }
+  },
+  "Amazon OpenSearch Service Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/amazon-opensearch-service/CYZXEBabs/Amazon%20OpenSearch%20Service%20Self-Assessment.xlsx"
+    }
+  },
+  "Amazon MSK Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/amazon-msk/CUVdWOTSo/Amazon%20MSK%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS Glue Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-glue/CXOnRJ8z8/AWS%20Glue%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS CloudFormation Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-cloudformation/CCCLz9V9V/AWS%20CloudFormation%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS Service Catalog Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-service-catalog/Ci8C2fJmH/AWS%20Service%20Catalog%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS Config Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-config/C66dxvlFt/AWS%20Config%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS Systems Manager Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-systems-manager/CFncgG_Eb/AWS%20Systems%20Manager%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS IoT Core Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-iot-core/CR-bw8BtE/AWS%20IoT%20Core%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS IoT Analytics Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-iot-analytics/CChSwety9/AWS%20IoT%20Analytics%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS IoT Greengrass Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-iot-greengrass/Cu27kMYQl/AWS%20IoT%20Greengrass%20Self-Assessment.xlsx"
+    }
+  },
+  "Amazon Connect Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/amazon-connect/Cjl5a0cJe/Amazon%20Connect%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS WAF Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-waf/C2UHVslcz/AWS%20WAF%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS GovCloud Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-govcloud/Ce_hwy34f/AWS%20GovCloud%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS Transfer Family Service Delivery Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-transfer-family/CuJSDnUyA/AWS%20Transfer%20Family%20Service%20Delivery%20Self-Assessment.xlsx"
+    }
+  },
+  "AWS Control Tower Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-control-tower/CsALWNKWk/AWS%20Control%20Tower%20Self-Assessment.xlsx"
+    }
+  }
+}
