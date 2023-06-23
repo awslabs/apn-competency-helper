@@ -48,7 +48,7 @@ And finally, the helper zips everything in the `var` directory.
     $ npm run-script build
 
     //Run the script
-    $ node ./dis/index.js
+    $ node ./dist/index.js
 
 Type the name of the APN Designation
 
