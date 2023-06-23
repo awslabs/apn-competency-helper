@@ -1,6 +1,12 @@
 # APN Competency Helper
 
-This package has been built in order to answer to a pragmatic approach and lower a cumbersome effort to built a template folder structure for APN Designations and particularly APN Competency.
+This package has been built in order to answer to a pragmatic approach and lower a cumbersome effort to build a template folder structure for APN Designations and particularly [APN Competency Program](https://aws.amazon.com/partners/programs/competencies/) and [APN Service Delivery Program](https://aws.amazon.com/partners/programs/service-delivery/).
+
+**Important Note**
+
+This helper refers to official APN self-service assessment checklist that are subject to change in the future. User has to check the validity of the checklist and particluarly that the version of the spreadsheet is up to date BEFORE filling in the documents.
+
+---
 
 The main principe is to automate the generation of a folder tree with different documents to support the Partner during the program achievement and ease the discovery of different evidence by the Auditor.
 
