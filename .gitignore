@@ -1,3 +1,7 @@
 node_modules
 var
 dist
+
+# Ignore all IDEA files
+*.iml
+.idea
