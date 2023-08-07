@@ -124,6 +124,9 @@
     }
   },
   "AWS Migration Competency": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/migration/consulting/CNIBv7Tt8/AWS%20Migration%20Competency%20Self-Assessment.xlsx"
+    },
     "software": {
       "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/migration/consulting/CNIBv7Tt8/AWS%20Migration%20Competency%20Self-Assessment.xlsx"
     },
