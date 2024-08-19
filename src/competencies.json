@@ -500,5 +500,10 @@
     "consulting": {
       "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/aws-control-tower/CsALWNKWk/AWS%20Control%20Tower%20Self-Assessment.xlsx"
     }
+  },
+  "AWS ECS Service Delivery": {
+    "consulting": {
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/service-delivery/amazon-ecs/Ck95eBZfm/Amazon%20ECS%20Self-Assessment.xlsx"
+    }
   }
 }
