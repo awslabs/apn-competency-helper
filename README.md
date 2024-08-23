@@ -41,6 +41,8 @@ And finally, the helper zips everything in the `var` directory.
 
 ## Usage
 
+### Direct Execution on Local Machine
+
     //Install dependencies
     $ yarn install
 
@@ -62,7 +64,25 @@ Select the partner path
 
 ![Worksheet name](./doc/3.png)
 
-Look in the `var` directory!
+After execution of the script, the file structure is created in the `var` directory.
+
+
+### Execution Via Docker
+
+If you like to run this script within a contained environment, you can build a Docker image with
+
+    $ docker image rm -f aws-helper/apn-competency-helper && docker build -t aws-helper/apn-competency-helper .
+
+By specifying an output directory as a volume, you can run the competency helper like this:
+
+    $ docker run -it --name aws-competency-helper -v output:/output aws-helper/apn-competency-helper
+
+After execution of the script, the file structure is created in the `output` directory.
+
+To generate the file structure repeatedly, you can use the following command:
+
+    $ docker container start -i aws-competency-helper
+
 
 ## Troubleshoot
 
