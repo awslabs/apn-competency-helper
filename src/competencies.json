@@ -123,9 +123,10 @@
       "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/mainframe-modernization/technology/CQ4XBOHFT/AWS%20Mainframe%20Modernization%20Competency%20Self-Assessment%20-%20Customer%20Deployed.xlsx"
     }
   },
-  "AWS Migration Competency": {
+  "AWS Migration and Modernization Competency": {
     "consulting": {
-      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/migration/consulting/CNIBv7Tt8/AWS%20Migration%20Competency%20Self-Assessment.xlsx"
+      "competencyUrl": "https://apn-checklists.s3.amazonaws.com/competency/migration-and-modernization/consulting/CTsQuH-uL.html",
+      "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/migration-and-modernization/consulting/CTsQuH-uL/AWS%20Migration%20and%20Modernization%20Competency%20Self-Assessment.xlsx"
     },
     "software": {
       "checklistUrl": "https://apn-checklists.s3.amazonaws.com/competency/migration/consulting/CNIBv7Tt8/AWS%20Migration%20Competency%20Self-Assessment.xlsx"
